@@ -3493,8 +3493,8 @@ exportObj.basicCardData = function() {
         skill: 5,
         force: 2,
         keyword: ["Dark Side"],
-        points: 6,
-        loadout: 20,
+        points: 7,
+        loadout: 22,
         applies_condition: 'I\'ll Show You the Dark Side'.canonicalize(),
         slots: ["Force", "Talent", "Tech", "Torpedo", "Missile", "Configuration"]
       }, {
@@ -6118,8 +6118,8 @@ exportObj.basicCardData = function() {
         keyword: ["Dark Side", "Light Side"],
         skill: 5,
         force: 3,
-        points: 5,
-        loadout: 14,
+        points: 6,
+        loadout: 20,
         slots: ["Force", "Force", "Talent", "Missile", "Tech", "Tech", "Modification", "Configuration"]
       }, {
         name: '"Wrath"',
