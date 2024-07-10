@@ -1208,8 +1208,8 @@ exportObj.basicCardData = function() {
         faction: "Rebel Alliance",
         ship: "TIE/ln Fighter",
         skill: 2,
-        points: 3,
-        loadout: 8,
+        points: 2,
+        loadout: 2,
         keyword: ["Spectre"],
         slots: ["Crew", "Modification"]
       }, {
@@ -5055,7 +5055,7 @@ exportObj.basicCardData = function() {
         ship: "RZ-2 A-wing",
         points: 4,
         loadout: 9,
-        slots: ["Talent", "Talent", "Missile", "Canon", "Tech", "Modification"]
+        slots: ["Talent", "Talent", "Missile", "Cannon", "Tech", "Modification"]
       }, {
         name: "Ronith Blario",
         id: 388,
@@ -5118,7 +5118,7 @@ exportObj.basicCardData = function() {
         skill: 5,
         ship: "Modified YT-1300 Light Freighter",
         keyword: ["Light Side"],
-        points: 7,
+        points: 6,
         loadout: 14,
         force: 1,
         slots: ["Force", "Missile", "Gunner", "Crew", "Modification", "Modification"]
@@ -6118,8 +6118,8 @@ exportObj.basicCardData = function() {
         keyword: ["Dark Side", "Light Side"],
         skill: 5,
         force: 3,
-        points: 6,
-        loadout: 20,
+        points: 5,
+        loadout: 14,
         slots: ["Force", "Force", "Talent", "Missile", "Tech", "Tech", "Modification", "Configuration"]
       }, {
         name: '"Wrath"',
