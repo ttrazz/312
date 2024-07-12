@@ -4525,7 +4525,7 @@ exportObj.basicCardData = function() {
         points: 5,
         loadout: 12,
         keyword: ["Droid"],
-        slots: ["Talent", "Cannon", "Torpedo", "Crew", "Device", "Modification", "Tactical Relay"]
+        slots: ["Talent", "Cannon", "Torpedo", "Crew", "Device", "Modification", "Title", "Tactical Relay"]
       }, {
         name: "Dark Courier",
         id: 336,
