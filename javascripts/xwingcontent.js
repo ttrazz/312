@@ -6489,7 +6489,7 @@ exportObj.basicCardData = function() {
         ship: "ST-70 Assault Ship",
         skill: 5,
         points: 6,
-        loadout: 10,
+        loadout: 16,
         unique: true,
         keyword: ["Bounty Hunter", "Mandalorian"],
         slots: ["Talent", "Crew", "Gunner", "Illicit", "Illicit", "Modification", "Title"]
