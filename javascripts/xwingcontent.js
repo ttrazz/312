@@ -5741,7 +5741,7 @@ exportObj.basicCardData = function() {
         keyword: ["Spectre"],
         skill: 6,
         points: 4,
-        loadout: 5,
+        loadout: 9,
         slots: ["Talent", "Talent", "Sensor", "Missile", "Configuration", "Modification"]
       }, {
         name: "Wedge Antilles (A-Wing)",
