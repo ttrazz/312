@@ -3255,10 +3255,10 @@ exportObj.basicCardData = function() {
         id: 212,
         faction: "Galactic Empire",
         ship: "TIE/sk Striker",
+        max_per_squad: 2,
         skill: 3,
         points: 3,
         loadout: 9,
-        max_per_squad: 2,
         slots: ["Talent", "Gunner", "Device"]
       }, {
         name: "Planetary Sentinel",
