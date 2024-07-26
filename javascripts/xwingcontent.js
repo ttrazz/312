@@ -1949,7 +1949,7 @@ exportObj.basicCardData = function() {
         faction: "Scum and Villainy",
         ship: "BTL-A4 Y-wing",
         skill: 2,
-        points: 4,
+        points: 3,
         loadout: 6,
         max_per_squad: 3,
         slots: ["Turret", "Torpedo", "Missile", "Device", "Illicit"]
