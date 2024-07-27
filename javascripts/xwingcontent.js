@@ -1656,7 +1656,7 @@ exportObj.basicCardData = function() {
         ship: "Auzituck Gunship",
         skill: 3,
         points: 5,
-        loadout: 13,
+        loadout: 16,
         slots: ["Talent", "Crew", "Crew", "Modification"]
       }, {
         name: "Kashyyyk Defender",
